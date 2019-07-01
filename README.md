@@ -1,24 +1,7 @@
-# README
+# Rest-Tester
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# This is a project from https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers
 
-Things you may want to cover:
+# The aim is to use rest-client with a simple app to understand the http requests and responds.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Authors @https://github.com/grace-mugoiri and @https://github.com/YemreAybey
